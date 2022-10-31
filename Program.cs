@@ -33,7 +33,7 @@ namespace Loops1
 
             //Instead of "int count = start", put "int i = start". 
 
-            //The meaning of I = INDEX!!! Index is like the little number in the page of a book. So here we're referencing the ammo type like a page in a book". 
+            //The meaning of I mean an INDEX!!! Index is like the little number in the page of a book. So here we're referencing the ammo type like a page in a book". 
 
             
 
