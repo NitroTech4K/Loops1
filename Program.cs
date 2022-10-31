@@ -14,9 +14,15 @@ namespace Loops1
             Console.WriteLine("Loops!");
             Console.WriteLine();
 
+
+            
             int start = 0;
             int end = 4;
 
+
+            //This is an Array. The boxes make the int an array. Put a name after the boxes. 
+
+            //The "new int" uses 
             int[] ammo;
             ammo = new int[5];
             ammo[0] = 6;
@@ -26,6 +32,9 @@ namespace Loops1
             ammo[4] = 10;
 
             int i = start;
+
+
+
 
             //The "Count" variable is renamed to "i" so it's easier to put in the command.
             //Count = i
